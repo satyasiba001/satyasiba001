@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyasiba001
-- 👀 I’m interested in AI/Ml/CLOUD
+- 👀 I’m interested in Ml/CLOUD/DATA
 - 🌱 I’m currently learning ...
 - 📫 How to reach me @satyasiba_sahoo on twitter
 
